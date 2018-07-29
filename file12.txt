@@ -1,2 +1,1 @@
-This is file12 on 
-New Branch 'sultan'
+This is file12 on the New Branch 'sultan'
