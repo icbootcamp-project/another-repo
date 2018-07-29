@@ -1,3 +1,6 @@
+
 This is line 2...
+This is line 1 in file 2 
+This is line 2 in file 2 //by Fahad
 NEW
 This is line three
